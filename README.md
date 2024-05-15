@@ -7,7 +7,7 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate 1st year c
 <br></br>
 
 <section>
-  <h1>💻About Me</h1>
+  <h2>💻 About Me</h2>
 <ul>
   <li>- 👀 I’m interested in the latest global tech trends</li>
   
@@ -24,19 +24,36 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate 1st year c
 <br></br>
 
 <section>
-  <h1>🛠️Languages & Tools</h1>
+  <h2>🛠️ Languages & Tools</h2>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp"/>
     <img src="https://skillicons.dev/icons?i=vscode,figma"/>
 </section>
 
+<br></br>
+
 <section>  
-  <h2 align="center">⚡ Stats ⚡</h2>
+  <h2 align="left">⚡ My Stats</h2>
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=En0chTan&count_private=true&show_icons=true&theme=shades-of-purple&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-  
+</div>
 </section>
 
+<br></br>
+
+<section>
+<div align=left position=relative>
+    <a href="https://github.com/En0chTan/github-readme-stats">
+  <img height=195 width=495 align="center" src="https://github-readme-stats.vercel.app/api?username=En0chTan&theme=material-palenight&border_radius=10" />
+</a>
+
+<a href="https://github.com/En0chTan/convoychat">
+  <img height=195 width=495 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=En0chTan&theme=material-palenight&border_radius=10&layout=compact&langs_count=8" />
+</a>
+</div>
+</section>
+
+<br></br>
 
 <!---
 En0chTan/En0chTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
