@@ -42,7 +42,7 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate 1st year c
 <br></br>
 
 <section>
-<div align=left position=relative>
+<div align=center position=relative>
     <a href="https://github.com/En0chTan/github-readme-stats">
   <img height=195 width=495 align="center" src="https://github-readme-stats.vercel.app/api?username=En0chTan&theme=material-palenight&border_radius=10" />
 </a>
