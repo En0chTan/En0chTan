@@ -16,6 +16,8 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate computer s
   <li>- 💞️ I’m looking forward to collaborating with others on innovative tech projects</li>
   
   <li>- 🎞️ I enjoy watching YouTube videos during my pastime, trying various kinds of food, and engaging in photography</li>
+
+  <li>- 💫 I'm a hardcore Star Wars Fan</li>
 </ul>
 </section>
 
