@@ -11,7 +11,7 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate computer s
 <ul>
   <li>- 👀 I have deep interest in the ever-evolving world of technology and love catching up with the latest global tech trends</li>
   
-  <li>- 🌱 I’m learning as much as possible from my peers, seniors and this community</li>
+  <li>- 🌱 I’m learning as much as possible from my peers, seniors and this awesome community</li>
   
   <li>- 💞️ I’m looking forward to collaborating with others on innovative tech projects</li>
   
