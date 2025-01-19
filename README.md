@@ -24,7 +24,7 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate computer s
 
 <section>
   <h2>🛠️ Languages-Frameworks-Tools</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp,java"/>
     <img src="https://skillicons.dev/icons?i=vscode,figma"/>
 </section>
 
