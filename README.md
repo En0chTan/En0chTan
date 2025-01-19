@@ -34,7 +34,7 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate computer s
   <h2 align="left">⚡ My Stats</h2>
 <br>
 <div align=center>
-  <a/>[![GitHub Streak](https://streak-stats.demolab.com/?user=En0chTan)](https://git.io/streak-stats)</a>
+  <a>[![GitHub Streak](https://streak-stats.demolab.com/?user=En0chTan)](https://git.io/streak-stats)</a>
 </div>
 </section>
 
