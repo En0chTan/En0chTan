@@ -47,6 +47,9 @@ Good day and hello there, my name is Enoch Tan Jeng Sen, a passionate computer s
   <img height=195 width=495 align="center" src="https://github-readme-stats.vercel.app/api?username=En0chTan&theme=material-palenight&border_radius=10" />
 </a>
 
+<br></br>
+<br></br>
+
 <a href="https://github.com/En0chTan/convoychat">
   <img height=195 width=495 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=En0chTan&theme=material-palenight&border_radius=10&layout=compact&langs_count=8" />
 </a>
