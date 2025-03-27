@@ -24,8 +24,8 @@ Hey there, I'm a passionate computer science student who's currently pursuing my
 
 <section>
   <h2>🛠️ Languages-Frameworks-Tools</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp,java,r"/>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,powerbi"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,cpp,java,r"/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma"/>
 </section>
 
 <br></br>
