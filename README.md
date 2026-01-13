@@ -25,7 +25,9 @@ Hey there, I'm a passionate computer science student who's currently pursuing my
 <section>
   <h2>🛠️ Languages-Frameworks-Tools</h2>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,cpp,java,r"/>
-    <img src="https://skillicons.dev/icons?i=vscode,figma"/>
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,figma"/>
+    <img src="https://skillicons.dev/icons?i=gcp,azure"/>
 </section>
 
 <br></br>
@@ -41,7 +43,7 @@ Hey there, I'm a passionate computer science student who's currently pursuing my
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## <h2>Data / Analytics / Machine Learning</h2>
+## <h2>Data Analytics / Machine Learning</h2>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
