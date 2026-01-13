@@ -23,7 +23,7 @@ Hey there, I'm a passionate computer science student who's currently pursuing my
 <br></br>
 
 <section>
-  <h2>🛠️ Languages-Frameworks-Tools</h2>
+  <h2>🛠️ Tech Arsenal</h2>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,cpp,java,r"/>
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow"/>
     <img src="https://skillicons.dev/icons?i=vscode,anaconda,figma"/>
